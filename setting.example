@@ -1,0 +1,11 @@
+[rescutime]
+user=
+api_key=
+rb=2014-06-01
+re=2014-06-15
+
+[db]
+server=xxxxxxxx
+account=xxxxxxxx
+passwd=xxxxxxxx
+dbname=xxxxxxxx

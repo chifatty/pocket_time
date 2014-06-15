@@ -54,3 +54,5 @@ docs/_build/
 
 # User added entries
 rescuetime/
+setting_*
+.DS_Store

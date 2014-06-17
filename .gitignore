@@ -56,3 +56,5 @@ docs/_build/
 rescuetime/
 setting_*
 .DS_Store
+*.pdf
+test.py

@@ -55,7 +55,6 @@ def genActivityEncoder(session, user):
         categories[category] = 1
     le = preprocessing.LabelEncoder()
     le.fit(sorted(categories.keys()))
-    print(le.classes_)
     return le
 
 
